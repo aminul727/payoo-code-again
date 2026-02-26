@@ -8,7 +8,7 @@ const pinNumber = pinNumberInput.value;
 console.log(pinNumber);
 if(pinNumber === '123*'){
     alert('Login Successfull ANIK')
-  window.location.href = ('/home.html'); 
+  window.location.href = ('home.html'); 
 }
 else{
     alert('Invalid Pin ANIK !')
