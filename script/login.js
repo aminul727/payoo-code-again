@@ -7,7 +7,7 @@ const pinNumberInput = document.getElementById('login-pin');
 const pinNumber = pinNumberInput.value;
 console.log(pinNumber);
 if(pinNumber === '123*'){
-    alert('Login Successfull ANIK')
+    alert('Login Successfull Vabna. Read it with your attention')
   window.location.href = ('home.html'); 
 }
 else{
